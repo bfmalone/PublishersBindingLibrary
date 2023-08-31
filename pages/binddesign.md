@@ -97,6 +97,8 @@ For those with no personal image, their binding in this collection has been used
   </div>
 </div>
 
+
+
 1. Minsky, Richard. The Art of American Book Covers: 1875-1930. New York, NY: George Braziller, 2013. 18-19.
 2. “Maurice Prendergast.” Smithsonian American Art Museum. https://americanart.si.edu/artist/maurice-prendergast-3875. 
 3. Minsky, 12. 
