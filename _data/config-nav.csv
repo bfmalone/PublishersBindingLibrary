@@ -2,8 +2,12 @@ display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
 Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
-Data,/data.html
-About,/about.html
+Timeline,/time.html
+History & Techniques,/tech.html
+Binding Designers
+Who They Were,/who.html,Binding Designers
+Known Designers in this Exhibition,/binddesign.html,Binding Designers
+Signatures,/signatures.html,Binding Designers
+About
+Exhibition,/exhibition.html,About
+Project,/project.html,About
