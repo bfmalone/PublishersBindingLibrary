@@ -1,0 +1,22 @@
+<style>
+.jumbotron {
+    padding: 4rem 2rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+}   
+#{{ jumbo_div_id }} {
+    background-image: url({{ jumboSrc }});
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: {{ include.position | default: 'center' }};
+}
+{% if include.padding %}
+.jumbo-title-box {
+    padding-top: {{ include.padding }};
+    padding-bottom: {{ include.padding }};
+}
+</style>
+<div class="jumbotron feature px-0 border" id="{{ jumbo_div_id }}">
+    </div>
+</div>
