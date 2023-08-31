@@ -6,19 +6,20 @@ layout: page
 <div class="row">
   <div class="col-md-8">
 
-    {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" height="300" %}
+   {% include index/description.html %}
+    
+    {% include index/snippet.html title="What are Publishers' Bindings?" text="Publishers' bindings, also known as edition bindings, were beautifully decorated cloth bindings that were common from the early 19th to 20th centuries. They're an incredibly interesting aspect of book history as their prevalance grew alongside changing trends in readership, as well as new tools and technologies being utilized in book manufacturing." %}
+    
+    {% include index/featured-terms.html field="bindingdesigner" title="Binding Designers" %}
+    
+    {% include index/featured-terms.html field="subject" title="Top Subjects" %}
   
   </div>
   <div class="col-md-4">  
 
+    {% include index/carousel.html title="Library Items" %}
+
     {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
-
-    {% include index/objects.html %}
 
   </div>
   <div class="col-md-12">
