@@ -6,7 +6,7 @@ permalink: /binddesign.html
 
 ## Known Designers in This Exhibition
 
-For those with no personal image, their binding in this collection has been used to represent them. 
+For those with no available image, their binding in this collection has been used to represent them. 
 
  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
   <div class="col">
