@@ -1,15 +1,13 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+creator,Author,
+compiler,Compiler
+illustrator,Illustrator,
+bindingdesigner,Binding Designer
+edition,Edition
+publisher,Publisher
+date,Date,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+description,Description,
+cataloglink,Catalog Link
+photocredit,Photo Credit:
