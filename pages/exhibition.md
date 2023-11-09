@@ -7,7 +7,7 @@ permalink: /exhibition.html
 
 ## Exhibition
 
-This is a very small digital exhibition that contains only thirty examples of publishers' bindings from the collections at the Lilly Library in Bloomington, Indiana. The bindings selected reflect the history of decorated cloth binding, the talents of various artists, the different styles and origins, and the changes that took place over the years. 
+The bindings selected for this digital library reflect the history of decorated cloth binding, the talents of various artists, the different styles and origins, and the changes that took place over the decades. 
 
 Publishers' bindings are incredibly interesting to study as they speak to the advancement of the book industry as a whole with the rise of machine technology. The early 19th century saw a dramatic shift away from the hand-press era, with the new tools and techniques utilized in book production making it possible for books to be printed on a massive scale. With this newfound speed, there was a growth in different areas of literature printed and published, and inevitably a change in how books were created, marketed, and sold. 
 
